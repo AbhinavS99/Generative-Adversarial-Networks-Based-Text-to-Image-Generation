@@ -18,12 +18,12 @@ To test the code
 
 Directory Structure
 
-1. dataset &#8594; has the flower dataset in hdf5 format
-2. modelState &#8594; Stores the trained models
+1. [dataset](https://github.com/AbhinavS99/Generative-Adversarial-Networks-Based-Text-to-Image-Generation/tree/main/dataset) &#8594; has the flower dataset in hdf5 format
+2. [modelState](https://github.com/AbhinavS99/Generative-Adversarial-Networks-Based-Text-to-Image-Generation/tree/main/modelState) &#8594; Stores the trained models
     * dcgan-cls.pth &#8594; DCGAN-CLS model
     * gan-cls-int.pth &#8594; GAN-CLS-INT model
-3. results &#8594; stores sample results i.e. expected v/s generated images
-4. src &#8594; the training process
+3. [results](https://github.com/AbhinavS99/Generative-Adversarial-Networks-Based-Text-to-Image-Generation/tree/main/results) &#8594; stores sample results i.e. expected v/s generated images
+4. [src](https://github.com/AbhinavS99/Generative-Adversarial-Networks-Based-Text-to-Image-Generation/tree/main/src) &#8594; the training process
 
 
 ---
