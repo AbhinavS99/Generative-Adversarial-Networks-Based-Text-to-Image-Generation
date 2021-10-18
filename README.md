@@ -2,7 +2,7 @@
 ---
 
 To view the outputs  
-Open **![Report.pdf](https://github.com/AbhinavS99/Generative-Adversarial-Networks-Based-Text-to-Image-Generation/blob/main/Report.pdf)**
+Open **[Report.pdf](https://github.com/AbhinavS99/Generative-Adversarial-Networks-Based-Text-to-Image-Generation/blob/main/Report.pdf)**
 
 ---
 
@@ -11,7 +11,7 @@ To test the code
 1. Open cmd/terminal in cwd                                                  
 2. run the command 'pip install -r requirements.txt'                        
 3. run the command 'python downloader.py' to download the dataset
-    * If this does not work then download the dataset from the ![link](https://drive.google.com/file/d/1EgnaTrlHGaqK5CCgHKLclZMT_AMSTyh8/view) and add the dataset in 'dataset' directory.
+    * If this does not work then download the dataset from the [link](https://drive.google.com/file/d/1EgnaTrlHGaqK5CCgHKLclZMT_AMSTyh8/view) and add the dataset in 'dataset' directory.
     * The size of dataset is 1.87GB.
 4. run the command 'python tester.py' to get results for both baseline models
 
