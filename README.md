@@ -1,8 +1,7 @@
 # Generative-Adversarial-Networks-Based-Text-to-Image-Generation
 ---
 
-To view the outputs  
-Open **[Report.pdf](https://github.com/AbhinavS99/Generative-Adversarial-Networks-Based-Text-to-Image-Generation/blob/main/Report.pdf)**
+To view the literature survey, the model architecture details, the background mathematics and the outputs - **[Report.pdf](https://github.com/AbhinavS99/Generative-Adversarial-Networks-Based-Text-to-Image-Generation/blob/main/Report.pdf)**
 
 ---
 
